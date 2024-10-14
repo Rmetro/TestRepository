@@ -13,3 +13,11 @@ print("hello,",end="")
 print("world!")
 print("python!"*3)
 print("\u2764") # prints a heart symbol
+print()
+print("hello"+"world!")
+print(True)
+print(False)
+print(1.2e3) # Prints 1200.0
+print("""This is a multiline
+print statement.""")
+print("This is a backslash:\\")
